@@ -1,10 +1,10 @@
 {
-  "name": "md-cli",
+  "name": "wstreet-cli",
   "version": "1.0.0",
   "description": "a cli for example",
   "main": "index.js",
   "bin": {
-    "md": "index.js"
+    "wstreet": "index.js"
   },
   "repository": {
     "type": "git",

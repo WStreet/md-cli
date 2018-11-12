@@ -43,6 +43,7 @@ program.version('1.0.0', '-v, --version')  // 将 -v 和 –version 添加到命
                 fs.writeFileSync(fileName, result);
               }
               console.log(symbols.success, chalk.green('项目初始化完成'));
+              console.log(`cd ${name}\n\nnpm install\n\nnpm start`)
             });
           })
         } else {

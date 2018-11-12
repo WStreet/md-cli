@@ -22,7 +22,6 @@
     "handlebars": "^4.0.12",
     "inquirer": "^6.2.0",
     "log-symbols": "^2.2.0",
-    "ora": "^3.0.0",
-    "webfonts-generator": "^0.4.0"
+    "ora": "^3.0.0"
   }
 }

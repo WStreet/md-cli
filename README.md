@@ -1,6 +1,6 @@
 # md-cli
 
-A example CLI for example [scaffolding](https://github.com/WStreet/md-scaffold-tpl-example) projects.
+An example CLI for example [scaffolding](https://github.com/WStreet/md-scaffold-tpl-example) projects.
 
 > `$ npm install -g wstreet-cli`
 
